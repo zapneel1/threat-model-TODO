@@ -143,6 +143,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Flask-WTF](https://flask-wtf.readthedocs.io/) for form validation
 - [Flask-Limiter](https://flask-limiter.readthedocs.io/) for rate limiting
 
-## Author
-
-**1B05H1N** - [GitHub Profile](https://github.com/1B05H1N)
